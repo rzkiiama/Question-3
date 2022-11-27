@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1d16a7c-3d55-4844-bffd-181e3a741936</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90fcec3b-fa53-4533-9e0d-b4494a98a420</id>
+      <masked>false</masked>
+      <name>Jeniskelamin</name>
+   </variable>
+</TestCaseEntity>
